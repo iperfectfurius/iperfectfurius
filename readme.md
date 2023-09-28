@@ -8,6 +8,9 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,git,java,js,jquery,html,css,mysql,nodejs,php,postman,py,bash)(https://skillicons.dev" />
   </a>
 </p>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats-ep0w25z1v-iperfectfurius.vercel.app/api?username=iperfectfurius&show_icons=true&theme=radical">
-</a>
+<p align="center">
+  <a href="https://github.com/anuraghazra/anuraghazra.github.io">
+    <img  src="https://github-readme-stats-ep0w25z1v-iperfectfurius.vercel.app/api?username=iperfectfurius&show_icons=true&theme=radical">
+    <img  src="https://github-readme-stats-ep0w25z1v-iperfectfurius.vercel.app/api/top-langs?username=iperfectfurius&theme=radical&layout=compact&hide=html,css&exclude_repo=Project_TFG,Servidor,wordpress-Test,Databases">
+  </a>
+</p>
