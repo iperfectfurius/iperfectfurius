@@ -8,7 +8,9 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,git,js,jquery,html,css,mysql,nodejs,php,java,postman,py,bash)(https://skillicons.dev" />
   </a>
 </p>
-Tengo 25 Años, actualmente soy desarrollador de Software y estoy apasionado por el mundo <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><br>
+<p>
+Tengo 25 Años, actualmente soy desarrollador de Software y estoy apasionado por el mundo <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><p>
+
 Me encanta solucionar cualquier tipo de problema y automatizar procesos pensando en la mantenibilidad y escalabilidad.
 
 Estoy abierto a cualquier oferta relacionada con desarrollo de software .NET.
