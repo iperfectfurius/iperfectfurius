@@ -18,7 +18,7 @@ Actualmente tengo varios proyectos .NET subidos que pueden reflejar algunos cono
 ## Main Skills
 - 👨‍💻 C#, .NET, .NET Core, Javascript, PHP, Java
 - 💽 MySQL, PostgreSQL, MongoDB, SQL
-- <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.cv.svg" width="10" height="10"/> Git, SVN
+- <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/cv.svg" width="10" height="10"/> Git, SVN
  
 
 ## 🗂️ Highlight Projects
