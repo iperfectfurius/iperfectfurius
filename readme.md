@@ -1,4 +1,3 @@
-# WIP
 <p align="center" width="200">
    <h3 align="center">¡Hey! 👋 Soy Adrián 👨🏻‍💻</h3>
 </p>
