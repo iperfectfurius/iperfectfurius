@@ -8,19 +8,17 @@
   </a>
 </p>
 <p>
-Tengo 25 Años, actualmente soy desarrollador de Software y estoy apasionado por el mundo <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><p>
+I am 25 years old, currently working as a software developer, and I am passionate about the world of <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><p>
 
-Me encanta solucionar cualquier tipo de problema y automatizar procesos pensando en la mantenibilidad y escalabilidad.
-
-Estoy abierto a cualquier oferta relacionada con desarrollo de software .NET.
+I love solving all kinds of problems, learning new things and automating processes, always thinking about maintainability and scalability.
 <br>
-Actualmente tengo varios proyectos .NET subidos que pueden reflejar algunos conocimientos que poseo en esta tecnologia.
+
 
 ## Main Skills
-- 👨‍💻 C#, .NET, .NET Core, Javascript, PHP, Java
-- 💽 MySQL, PostgreSQL, MongoDB, SQL
-- <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/cv.svg" width="10" height="10"/> Git, SVN
- 
+- 👨‍💻 Focused on the plattform .NET since 2022
+- Decision-making and problem solving skills
+- Strong creativity and agility, regardless of the technology involved.
+- Self-taught.
 
 ## 🗂️ Highlight Projects
 
@@ -34,7 +32,10 @@ Actualmente tengo varios proyectos .NET subidos que pueden reflejar algunos cono
 
 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/-adriagtrias@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adriagtrias@gmail.com)](mailto:adriagtrias@gmail.com)
+# Contact
+
+- [Linkedin](https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-trias-97a788250/)
+- adriagtrias@gmail.com
 
 <p align="center">
   <a href="https://github.com/anuraghazra/anuraghazra.github.io">
