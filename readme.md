@@ -15,7 +15,7 @@ I love solving all kinds of problems, learning new things and automating process
 
 
 ## Main Skills
-- 👨‍💻 Focused on the plattform .NET since 2022
+- 👨‍💻 Focused on the platform .NET since 2022
 - Decision-making and problem solving skills
 - Strong creativity and agility, regardless of the technology involved.
 - Self-taught.
