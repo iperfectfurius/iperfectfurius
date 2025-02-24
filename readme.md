@@ -8,7 +8,7 @@
   </a>
 </p>
 <p>
-I am 26 years old, currently working as a software .NET developer, and I am passionate about the world of <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><p>
+I am 27 years old, currently working as a software .NET developer, and I am passionate about the world of <image src="https://raw.githubusercontent.com/iperfectfurius/iperfectfurius/main/img/.NET_logo.svg" width="24" height="24"/><p>
 
 I love solving all kinds of problems, learning new things and automating processes, always thinking about maintainability and scalability.
 <br>
